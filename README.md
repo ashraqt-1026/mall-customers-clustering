@@ -55,3 +55,8 @@ Based on the clustering results:
 - Scikit-learn  
 
 ---
+
+## 🔗 Resources
+- [Dataset (Mall Customers)](https://www.kaggle.com/datasets/shwetabh123/mall-customers)  
+- [Jupyter Notebook](notebook.ipynb) 
+---
