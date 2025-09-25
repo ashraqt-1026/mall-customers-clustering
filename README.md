@@ -57,6 +57,6 @@ Based on the clustering results:
 ---
 
 ## 🔗 Resources
-- [Dataset (Mall Customers)](https://www.kaggle.com/datasets/shwetabh123/mall-customers)  
+- [Dataset (Mall Customers)](Mall_Customers.csv)  
 - [Jupyter Notebook](notebook.ipynb) 
 ---
